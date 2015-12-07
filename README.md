@@ -1,2 +1,5 @@
 # hello-world
-Blah blah blah
+
+Hey world!
+
+I'm fueling up on caffeine and learning JavaScript. 
